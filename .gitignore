@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Smart Calculator/task/build/
+/Smart Calculator/task/out/
+/Smart Calculator/task/out/production/classes/
+/Topics/For loop and arrays/Right Rotation/out/
+/Topics/For loop and arrays/Right Rotation/out/production/classes/

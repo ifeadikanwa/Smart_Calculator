@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart_Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Right Rotation/Smart_Calculator.Topics-For_loop_and_arrays-Right_Rotation.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Right Rotation/Smart_Calculator.Topics-For_loop_and_arrays-Right_Rotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Right Rotation/Smart_Calculator.Topics-For_loop_and_arrays-Right_Rotation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Right Rotation/Smart_Calculator.Topics-For_loop_and_arrays-Right_Rotation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Right Rotation/Smart_Calculator.Topics-For_loop_and_arrays-Right_Rotation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Right Rotation/Smart_Calculator.Topics-For_loop_and_arrays-Right_Rotation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Theory/Smart_Calculator.Topics-For_loop_and_arrays-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Theory/Smart_Calculator.Topics-For_loop_and_arrays-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Theory/Smart_Calculator.Topics-For_loop_and_arrays-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Theory/Smart_Calculator.Topics-For_loop_and_arrays-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Theory/Smart_Calculator.Topics-For_loop_and_arrays-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/For loop and arrays/Theory/Smart_Calculator.Topics-For_loop_and_arrays-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.test.iml" />
+    </modules>
+  </component>
+</project>
